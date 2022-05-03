@@ -3,6 +3,6 @@ package com.gkl;
 public class GitTest {
     public static void main(String args[]){
         System.out.println("hello java");
-        System.out.println("hello fenzhi2");
+        System.out.println("hello hot-fix");
     }
 }
